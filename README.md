@@ -1,8 +1,8 @@
-김재간 포트폴리오    
+###김재간 포트폴리오    
 
 프로젝트     
  
-<a href="https://github.com/nikerun23/Minesweeper"> 지뢰찾기프로젝트 (바로가기)</a>
+<a href="https://github.com/penpar/Minesweeper"> 지뢰찾기프로젝트 (바로가기)</a>
 
 개요
 
@@ -16,7 +16,7 @@
 •DB액션 처리: JDBC
 •개발 Tool : Eclips, Atom, SVN, Apache Tomcat v8.0, VisualSVN Server Manager          
 
-직원관리 시스템 (바로가기) 
+</a>https://github.com/penpar/hobbynew"> Spring 게시판 (바로가기)</a>
 
 개요•Spring Framework를 이용한 직원관리 및 Spring Security를 이용한 계정 권한 부여  
 
