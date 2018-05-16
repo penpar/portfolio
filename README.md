@@ -1,8 +1,8 @@
 김재간 포트폴리오    
 
 프로젝트     
-
-성적관리시스템 (바로가기)     
+ 
+<a href="https://github.com/nikerun23/Minesweeper"> 지뢰찾기프로젝트 (바로가기)</a>
 
 개요
 
