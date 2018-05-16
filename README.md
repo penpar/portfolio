@@ -16,7 +16,8 @@
 •DB액션 처리: JDBC
 •개발 Tool : Eclips, Atom, SVN, Apache Tomcat v8.0, VisualSVN Server Manager          
 
-<Spring 게시판 (바로가기)/> <https://github.com/penpar/Minesweeper/hobbynew>
+<a href="https://github.com/penpar/hobbynew"> SPRING 프로젝트 (바로가기)</a>
+
 
 ### 개요
 
