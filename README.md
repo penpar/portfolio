@@ -16,7 +16,7 @@
 •DB액션 처리: JDBC
 •개발 Tool : Eclips, Atom, SVN, Apache Tomcat v8.0, VisualSVN Server Manager          
 
-</a>https://github.com/penpar/hobbynew"> Spring 게시판 (바로가기)</a>
+<a https://github.com/penpar/hobbynew"> Spring 게시판 (바로가기)</a>
 
 개요•Spring Framework를 이용한 직원관리 및 Spring Security를 이용한 계정 권한 부여  
 
