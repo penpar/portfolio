@@ -1,6 +1,6 @@
 # 김재간 포트폴리오    
 
-### 프로젝트     
+### 프로젝트 (2017.10.22~2017.11.10)    
  
 <a href="https://github.com/penpar/Minesweeper"> 지뢰찾기프로젝트 (바로가기)</a>
 
@@ -20,7 +20,7 @@
 
 
 
-### 프로젝트    
+### 프로젝트 (2018.02.12 ~ 2018.03.13)   
 
 <a href="https://github.com/penpar/hobbynew"> SPRING 프로젝트 (바로가기)</a>
 
