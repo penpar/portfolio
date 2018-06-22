@@ -31,7 +31,7 @@
 ### 주요 기술
 
 • 참여도: 30% <br/>
-• 검색 결과 데이터 요철 및 출력 : jQuery, Ajax, JSON <br/>
+• 검색 결과 데이터 요청 및 출력 : jQuery, Ajax, JSON <br/>
 • 윕 화면 구성: HTML, CSS, BOOTSTRAP, javascript <br/>
 • 결과를 얻기 위한 서버 처리 : JAVA, Servlet, JSP ,EL , XML <br/>
 • 개발 환경 : Eclipse, Spring Tool Suite, Oracle, Apache Tomcat v8.5, SVN <br/>
