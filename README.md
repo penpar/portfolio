@@ -14,24 +14,25 @@
 •웹 화면 구성: HTML, CSS, JavaScript <br/>
 •결과를 얻어오기 위한 서버 액션: JAVA, Servlet, JSP, JSTL, EL <br/>
 •DB액션 처리: JDBC <br/>
-•개발 Tool : Eclips, SVN, Apache Tomcat v8.0    <br/>       
+•개발 Tool : Eclips, SVN, Apache Tomcat v8.0    <br/>       <br/>     <br/> 
 
 
-### 개요
 
-•Spring Framework를 이용한 직원관리 및 Spring Security를 이용한 계정 권한 부여  
-
-### 공헌한 내용
-
-•참여도: 개인프로젝트 <br/>
-•JAVA, Spring, MyBatis, SpringSecurity, 이미지 파일 업로드, JSP, JSTL, EL, HTML, CSS, BootStrap, JavaScript, jQuery <br/>
-•Spring Tool Suite, Oracle, Apache Tomcat v8.5, SVN <br/>
+### 프로젝트    
 
 <a href="https://github.com/penpar/hobbynew"> SPRING 프로젝트 (바로가기)</a>
 
-
 ### 개요
-•Spring Framework 이용 및 Spring Security 적용한 방명록 게시판     
-공헌한 내용
-•참여도: 개인프로젝트
-•JAVA, Spring, MyBatis, SpringSecurity, JSP, JSTL, EL•Git(SourceTree), GitHub•HTML, CSS, BootStrap, JavaScript, jQuery•Eclipse, Atom, Oracle, Apache Tomcat v8.0     
+
+•Spring Framework를 이용한 자신만의 취미를 공유하고 추천해주는 사이트 개발
+
+### 공헌한 내용
+
+•참여도: 30% <br/>
+•JAVA, Spring, MyBatis, SpringSecurity, 이미지 파일 업로드, JSP, JSTL, EL, HTML, CSS, BootStrap, JavaScript, jQuery <br/>
+•Spring Tool Suite, Oracle, Apache Tomcat v8.5, SVN <br/>
+
+
+
+
+
