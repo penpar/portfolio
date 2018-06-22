@@ -10,11 +10,12 @@
 
 ### 공헌한 내용
 
-•참여도: 40%•검색 결과 데이터 요청 및 출력: jQuery, Ajax, JSON <br/>
+•참여도: 40% <br/>
+•검색 결과 데이터 요청 및 출력: jQuery, Ajax, JSON <br/>
 •웹 화면 구성: HTML, CSS, JavaScript <br/>
-•결과를 얻어오기 위한 서버 액션: JAVA, Servlet, JSP, JSTL, EL <br/>
+•결과를 얻어오기 위한 서버 처리: JAVA, Servlet, JSP, JSTL, EL <br/>
 •DB액션 처리: JDBC <br/>
-•개발 Tool : Eclips, SVN, Apache Tomcat v8.0    <br/>       <br/>     <br/> 
+•개발 환경 : Eclips, SVN, Apache Tomcat v8.0    <br/>       <br/>     <br/> 
 
 
 
@@ -29,9 +30,10 @@
 ### 공헌한 내용
 
 •참여도: 30% <br/>
-•JAVA, Spring, MyBatis, SpringSecurity, 이미지 파일 업로드, JSP, JSTL, EL, HTML, CSS, BootStrap, JavaScript, jQuery <br/>
-•Spring Tool Suite, Oracle, Apache Tomcat v8.5, SVN <br/>
-
+*검색 결과 데이터 요철 및 출력 : jQuery, Ajax, JSON <br/>
+*윕 화면 구성: HTML, CSS, BOOTSTRAP, javascript <br/>
+*결과를 얻기 위한 서버 처리 : JAVA, Servlet, JSP ,EL , XML <br/>
+*개발 환경 : Eclipse, Spring Tool Suite, Oracle, Apache Tomcat v8.5, SVN <br/>
 
 
 
