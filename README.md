@@ -1,5 +1,23 @@
 # 김재간 포트폴리오    
 
+### 프로젝트 (2018.02.12 ~ 2018.03.13)   
+
+<a href="https://github.com/penpar/hobbynew"> SPRING 프로젝트 (바로가기)</a>
+
+### 개요
+
+•Spring Framework를 이용한 자신만의 취미를 공유하고 추천해주는 사이트
+
+### 주요 기술
+
+• 참여도: 30% <br/>
+• 검색 결과 데이터 요청 및 출력 : jQuery, Ajax, JSON <br/>
+• 윕 화면 구성: HTML, CSS, BOOTSTRAP, javascript <br/>
+• 결과를 얻기 위한 서버 처리 : JAVA, Servlet, JSP ,EL , XML <br/>
+• 개발 환경 : Eclipse, Spring Tool Suite, Oracle, Apache Tomcat v8.5, SVN <br/>
+
+
+
 ### 프로젝트 (2017.10.22~2017.11.10)    
  
 <a href="https://github.com/penpar/Minesweeper"> 지뢰찾기프로젝트 (바로가기)</a>
@@ -19,22 +37,6 @@
 • 개발 환경 : Eclips, Oracle, Apache Tomcat v8.0    <br/>       <br/>     <br/> 
 
 
-
-### 프로젝트 (2018.02.12 ~ 2018.03.13)   
-
-<a href="https://github.com/penpar/hobbynew"> SPRING 프로젝트 (바로가기)</a>
-
-### 개요
-
-•Spring Framework를 이용한 자신만의 취미를 공유하고 추천해주는 사이트
-
-### 주요 기술
-
-• 참여도: 30% <br/>
-• 검색 결과 데이터 요청 및 출력 : jQuery, Ajax, JSON <br/>
-• 윕 화면 구성: HTML, CSS, BOOTSTRAP, javascript <br/>
-• 결과를 얻기 위한 서버 처리 : JAVA, Servlet, JSP ,EL , XML <br/>
-• 개발 환경 : Eclipse, Spring Tool Suite, Oracle, Apache Tomcat v8.5, SVN <br/>
 
 
 
