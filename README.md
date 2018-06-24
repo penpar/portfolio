@@ -22,7 +22,7 @@
 
 ### 프로젝트 (2017.10.22~2017.11.10)    
  
-<a href="https://github.com/penpar/Minesweeper"> 지뢰찾기프로젝트 (바로가기)</a>
+<a href="https://github.com/penpar/Minesweeper"> 지뢰찾기 프로젝트 (바로가기)</a>
 
 ### 개요
 
